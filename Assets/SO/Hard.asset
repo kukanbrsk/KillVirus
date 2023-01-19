@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b47837d435d7e4e329063ab4d1e70865, type: 3}
+  m_Name: Hard
+  m_EditorClassIdentifier: 
+  virusCount: 10
+  spawnInterval: 2
+  baseSpeed: 4
+  baseScale: 1.2
